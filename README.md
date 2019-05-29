@@ -1,4 +1,4 @@
-***This is a static landing page for a fictitious food service organization***<br />
+<h2> This is static landing page of a fictitious food service organization </h2> <br />
 
 
 ![omnifood](https://user-images.githubusercontent.com/30544355/58583370-78bbce00-8271-11e9-8463-037638d66800.png)
